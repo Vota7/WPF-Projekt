@@ -1,3 +1,4 @@
 # WPF-Projekt
-## 9.3.2026
-Dnes jsem vytvořil celý XAML
+##Funkce
+Vlevo je datagrid s hodnotami 
+Vpravo jsou policka a tlacitka na vytvareni novych polozek
